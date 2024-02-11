@@ -1,8 +1,8 @@
-# Hey, I'm LucaDev9989
+# Hey, I'm Luna aka LunaDev9989
 
 ## About me
 
-I'm a Discord bot developer
+I'm a developer of Discord bots and Minecraft plugins.
 
 ## Socials
 
@@ -14,6 +14,7 @@ I'm a Discord bot developer
 
 ## Tech Stack
 
+[![](https://skillicons.dev/icons?i=java)](https://www.w3schools.com/java/default.asp)<br/>
 [![](https://skillicons.dev/icons?i=js)](https://www.w3schools.com/js/default.asp)<br/>
 [![](https://skillicons.dev/icons?i=nodejs)](https://www.w3schools.com/nodejs/default.asp)
 [![](https://skillicons.dev/icons?i=mongodb)](https://www.w3schools.com/mongodb/index.php)<br/>
