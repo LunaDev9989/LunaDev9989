@@ -1,6 +1,5 @@
 # LunaDev9989
 
----
 ### Hey there! I'm Luna, a 19-year-old developer from Germany.
 I’ve been passionate about coding since early 2018, and I love creating clean, creative, and functional solutions.
 In my free time, you’ll usually find me programming.
